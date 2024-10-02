@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background for contrast */
+    color: #333; /* Dark text for readability */
+    text-align: center; /* Center all text */
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50; /* Darker color for headings */
+    font-size: 2em; /* Increase main heading size */
+    text-decoration: underline; /* Underline main headings */
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 1.5em; /* Increase subheading size */
+}
+
+p {
+    margin: 10px 0;
+    font-size: 1.1em; /* Increase paragraph font size */
+}
+
+ul {
+    margin: 10px 0 20px 20px; /* Indent lists for clarity */
+    font-size: 1.1em; /* Increase list item font size */
+    text-align: left; /* Align list items to the left */
+}
+
+a {
+    color: #3498db; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
